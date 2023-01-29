@@ -4,7 +4,7 @@ import Header from './components/Header'
 import Tasks from './components/Tasks'
 import AddTask from './components/AddTask'
 
-//main app code
+//main app code for task tracker
 function App() {
   const [showAddTask, setShowAddTask] = useState(false)
 
